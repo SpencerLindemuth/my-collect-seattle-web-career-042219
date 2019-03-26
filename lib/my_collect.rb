@@ -12,6 +12,3 @@ def my_collect(array)
     "No Block was given!"
   end
 end
-      
-      
-
